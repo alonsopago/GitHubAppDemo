@@ -8,4 +8,5 @@ public class GitHubTest {
         j = i + 1;
         j++;
     }
+    i=j+10;
 }
